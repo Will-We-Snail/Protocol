@@ -1,4 +1,6 @@
 ```
+Type: 1
+
 {
   uint32 level,
   float64 x,
